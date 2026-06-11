@@ -4,3 +4,7 @@ QR_CODE_WIDTH_CM = 9.65
 #Calculate once during calibration
 FOCAL_LENGTH_CM = 974.6
 
+#Serial connection to the Arduino
+SERIAL_PORT = "COM3"
+SERIAL_BAUD = 9600
+
